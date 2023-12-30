@@ -1,5 +1,5 @@
 # Tastify
-Tastifyis a simple, open-source platform for sharing and discovering delicious food recipes. It is powered by [TheMealDB](https://www.themealdb.com/api.php), an open-source Recipe API.
+Tastify is a modern, open-source platform for sharing and discovering delicious food recipes. It is powered by [TheMealDB](https://www.themealdb.com/api.php), an open-source Recipe API.
 
 ## Features
 
